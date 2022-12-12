@@ -1,0 +1,19 @@
+{
+    "name": "jecovier/fision",
+    "description": "A minimal framework to create pure HTML webpages",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fision\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Espinoza",
+            "email": "jecovier@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
